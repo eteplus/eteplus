@@ -33,7 +33,7 @@ I learned a lot from the open-source community and i love how collaboration and 
 - 🛠 Most Used Languages
 
   <img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=eteplus&show_icons=true&layout=compact&theme=gruvbox&hide_title=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=eteplus&show_icons=true&layout=compact&theme=gruvbox&hide_title=true&langs_count=6"
     alt="eteplus" />
 
 - 📈 Github stats
