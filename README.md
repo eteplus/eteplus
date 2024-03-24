@@ -26,7 +26,7 @@ I learned a lot from the open-source community and i love how collaboration and 
 
 - 🌱 I’m currently learning **Rust, Swift**
 
-- 📝 I regularly write articles on [https://eteplus.com](https://eteplus.com)
+- 📝 I write articles on [https://eteplus.com](https://eteplus.com)
 
 - 📫 How to reach me **eteplus@outlook.com**
 
